@@ -1,0 +1,13 @@
+.arrow-button {
+  background-image: url(../../images/arrow-button.svg);
+  background-size: contain;
+  background-color:  #222222;
+  border-style: none;
+  padding: 0;
+  width: 18px;
+  height: 18px;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  cursor: pointer;
+  margin-left: 8.5px;
+}

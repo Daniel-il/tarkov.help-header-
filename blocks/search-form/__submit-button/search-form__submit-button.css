@@ -1,0 +1,11 @@
+.search-form__submit-button {
+  background-image: url(../../../images/search_btn.svg);
+  background-size: contain;
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  border-style: none;
+  background-color: #363636;
+  margin: 9px 16px 10px 0;
+  cursor: pointer;
+}

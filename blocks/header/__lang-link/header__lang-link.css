@@ -1,0 +1,7 @@
+.header__lang-link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ABABAB;
+  font-size: 16px;
+  line-height: 150%;
+}

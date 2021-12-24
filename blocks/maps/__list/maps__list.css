@@ -1,0 +1,9 @@
+.maps__list {
+  list-style-type: none;
+  display: flex;
+  max-width: 619px;
+  width: 100%;
+  margin: 0 0 0 405px;
+  padding: 20px 0;
+  justify-content: space-between;
+}
